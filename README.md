@@ -1,3 +1,10 @@
-# Proyecto Apeperia
+# Responsive Layouts
 
-Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
+Proyecto enfocado en la construcción de interfaces adaptables a diferentes dispositivos.
+
+## Tecnologías
+- HTML
+- CSS
+
+## Objetivo
+Desarrollar habilidades en diseño responsive y estructura visual de aplicaciones web.
